@@ -1,0 +1,6 @@
+name: reveal-md-ghpages
+author: Shain Singh
+branding:
+  icon: book-open
+  color: blue
+description: 'Build GitHub Pages from Reveal.js'
